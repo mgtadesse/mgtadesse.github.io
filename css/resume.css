@@ -47,6 +47,8 @@ p.lead {
   font-weight: 400;
 }
 
+.email {text-transform: lowercase;}
+
 .subheading {
   text-transform: uppercase;
   font-weight: 500;
@@ -90,7 +92,7 @@ p.lead {
 }
 
 #sideNav .navbar-toggler:focus {
-  outline-color: #d48a6e;
+  outline-color: #a9db8a;
 }
 
 @media (min-width: 992px) {
