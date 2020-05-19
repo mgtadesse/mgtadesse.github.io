@@ -1,0 +1,35 @@
+.row1 {
+  height: 300px;
+  object-fit: contain;
+  float: left;
+  width: 30%;
+  margin: 1.66%;
+}
+
+.row2 {
+  height: 300px;
+  object-fit: contain;
+  float: left;
+  width: 30%;
+  margin: 1.66%;
+}
+
+.row3 {
+  height: 500px;
+  object-fit: contain;
+  float: left;
+  width: 30%;
+  margin: 1.66%;
+}
+
+p {
+  font-family: Raleway;
+  font-weight: bold;
+  margin-left: 1.66%;
+  font-size: 2em;
+  font-weight: 800;
+  border-bottom: 3px solid gray;
+  width: 96.6%;
+  padding-bottom: 23px;
+
+}
