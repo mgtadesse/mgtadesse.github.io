@@ -1,0 +1,38 @@
+p {
+    text-align: justify;
+}
+
+.left-border {
+    border-left: 3px solid gray;
+    padding-left: 5px;
+}
+
+.date {
+    color: #3498db;
+    font-weight: bold;
+    font-style: arial;
+    text-transform: uppercase;
+    letter-spacing: 2px;
+}
+.container {
+    padding: 25px;
+    width: 65%;
+    margin: 20px auto;
+    border: 15px solid gray;   
+}
+
+.article  {
+    padding-bottom: 10px;
+    /* border-bottom: 2px solid gray; */
+    font-family: 'calibri';
+}
+
+hr {
+    width: 95%;
+}
+
+img {
+    width: 40%;
+    object-position: center;
+    margin:4.8%; 
+}
